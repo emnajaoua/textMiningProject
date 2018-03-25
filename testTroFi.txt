@@ -1,0 +1,9 @@
+***absorb***
+*nonliteral cluster*
+wsj02:2251	U	Another option will be to try to curb the growth in education and other local assistance , which absorbs 66 % of the state 's budget ./.
+wsj03:2839	N	But in the short-term it will absorb a lot of top management 's energy and attention , '' says Philippe Haspeslagh , a business professor at the European management school , Insead , in Paris ./.
+
+*literal cluster*
+wsj01:8268	N	The Monitor 's losses are absorbed by the church 's working fund , which reportedly has declined during the past two years to about $ 200 million from more than $ 280 million , largely because of the stock-market crash ./.
+wsj11:1363	L	An Energy Department spokesman says the sulfur dioxide might be simultaneously recoverable through the use of powdered limestone , which tends to absorb the sulfur ./.
+wsj17:7979	L	The yellow beta carotene pigment absorbs blue -LRB- not yellow -RRB- laser light ./.
